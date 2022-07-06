@@ -1,0 +1,28 @@
+{
+  "title": "Coheed & Cambria Releases",
+  "legend": [ 
+    { "name":"Album", "colour": "black", "id": 1 }
+  ],
+  "entries": [
+    { "type": 0, "name": "2002" },
+    { "type": 1, "name": "The Second Stage Turbine Blade", "date": "2002-03-05" },
+    { "type": 0, "name": "2003" },
+    { "type": 1, "name": "In Keeping Secrets of Silent Earth: 3", "date": "2003-10-07" },
+    { "type": 0, "name": "2005" },
+    { "type": 1, "name": "Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness", "date": "2005-09-20" },
+    { "type": 0, "name": "2007" },
+    { "type": 1, "name": "Good Apollo, I'm Burning Star IV, Volume Two: No World for Tomorrow", "date": "2007-10-23" },
+    { "type": 0, "name": "2010" },
+    { "type": 1, "name": "Year of the Black Rainbow", "date": "2010-04-13" },
+    { "type": 0, "name": "2012" },
+    { "type": 1, "name": "The Afterman: Ascension ", "date": "2012-10-09" },
+    { "type": 0, "name": "2013" },
+    { "type": 1, "name": "The Afterman: Descension", "date": "2013-02-05" },
+    { "type": 0, "name": "2015" },
+    { "type": 1, "name": "The Color Before the Sun", "date": "2015-10-16" },
+    { "type": 0, "name": "2018" },
+    { "type": 1, "name": "Vaxis – Act I: The Unheavenly Creatures", "date": "2018-10-05" },
+    { "type": 0, "name": "2022" },
+    { "type": 1, "name": "Vaxis – Act II: A Window of the Waking Mind ", "date": "2022-06-24" }
+  ]
+}
