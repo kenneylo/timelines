@@ -10,6 +10,7 @@ export interface Timeline {
     legend: Legend[]; 
     entries: Entry[] 
 }
+
 export interface Legend {
     name: string; // Name of the legend entry (not currently used).
     id: number; // The id used to reference back to.
@@ -25,6 +26,7 @@ export interface Entry {
     footnote?: string; // Optional foot note.
     cid?: number; // Associates this entry to a legend entry, which provides the colour information.
 }
+
 export enum EntryType {
     chapter = 0, // Chapter entries appear in the middle of the timeline
     entry = 1, // A normal entry, appears onthe left or right hand side of the timeline
